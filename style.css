@@ -9,16 +9,21 @@ body{
     background-color: pink;
 }
 .div2{
-    background-color: salmon;
+    /* background-color: salmon; */
 }
 .squire{
-    height: 150px;
     width: 150px;
+    height: 150px;
     background-color: fuchsia;
 }
 .squire2{
-    margin-top: 300px;
+    /* margin-top: 00px; */
     height: 150px;
     width: 150px;
     background-color: blue;
+}
+
+/* toggleClass */
+.red{
+    background-color: red;
 }
