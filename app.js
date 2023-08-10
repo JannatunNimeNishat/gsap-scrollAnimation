@@ -89,8 +89,8 @@ gsap.registerPlugin(ScrollTrigger)
 
 
 // pin
-/* gsap.to('.squire',{
-    x:700,
+gsap.to('.squire',{
+    // x:700,
     duration:8,
     scrollTrigger:{
         trigger:'.squire',
@@ -105,8 +105,8 @@ gsap.registerPlugin(ScrollTrigger)
             fontSize:'2rem'
         }
     }
-}) */
-gsap.to('.squire',{
+})
+/* gsap.to('.squire',{
     // x:200,
     duration:8,
     scrollTrigger:{
@@ -123,7 +123,7 @@ gsap.to('.squire',{
             fontSize:'2rem'
         }
     }
-})
+}) */
 
 
 
